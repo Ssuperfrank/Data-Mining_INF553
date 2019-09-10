@@ -2,11 +2,10 @@
 
 Base on data mining, using Apache spark RDD in python and scala.
 
-HW1. Map and Reduce
+HW1. MapReduce
 
-HW2. SON algorithm, find Frequent Itemsets
+HW2. Implemented SON algorithm to find Frequent Itemsets
 
-HW3. CF recommendation systems
+HW3. Completed CF Recommendation System with MinHash and Locality Sensitive Hashing(LSH) algorithms
 
-HW4. Community Detection
-
+HW4. Community Detection by Girvan-Newman algorithm
